@@ -9,4 +9,4 @@
  - Open 'client.html'
  
  # Application flow
- 
+ ![alt text](https://github.com/wamalana/Bouncing-Ball-on-Websocket-/blob/master/app_flow.jpg?raw=true)
