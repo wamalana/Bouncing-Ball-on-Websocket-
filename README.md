@@ -5,5 +5,5 @@
  - Clone this to your machine
  - cd BouncingBallonWebsocket
  - `npm install`
- - node websocket-server.js
- - Open client.html
+ - 'node websocket-server.js'
+ - Open 'client.html'
