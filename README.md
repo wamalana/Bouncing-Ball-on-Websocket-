@@ -7,3 +7,6 @@
  - `npm install`
  - 'node websocket-server.js'
  - Open 'client.html'
+ 
+ # Application flow
+ 
