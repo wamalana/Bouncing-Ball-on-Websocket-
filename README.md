@@ -17,5 +17,5 @@
  - step 5 : javascript update response
  
   # Bug (27/02/2020)
-   (script) can't trigger add/delete ball > problum: transform variables in fn
-            window output,client '1' and client 'n' not same! > problum: javascript    
+-   (script) can't trigger add/delete ball > problum: transform variables in fn
+-            window output,client '1' and client 'n' not same! > problum: javascript    
